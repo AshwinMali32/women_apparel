@@ -29,5 +29,5 @@ https://dribbble.com/shots/15931489-Women-s-Apparel-App
 
 Carousel Slider https://pub.dev/packages/carousel_slider
 
-get https://pub.dev/packages/get
+Get https://pub.dev/packages/get
 
